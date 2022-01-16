@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioFinal5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back">Back</string>
+    <string name="afecha">Añadir fecha</string>
+    <string name="aevento">Añadir evento</string>
+</resources>
